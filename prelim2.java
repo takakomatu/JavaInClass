@@ -1,17 +1,24 @@
 import java.util.Scanner;
-import java.math.BigInteger;
 import java.awt.Rectangle;
-import java.util.Random;
+import java.math.BigInteger;
 public class prelim2 {
 public static void main(String[] args) {
-	
-System.out.print("Enter meter");
+System.out.print("What is your large integer? ");
 Scanner scan = new Scanner(System.in);
-double meter = scan.nextDouble();
-double mile, foot, inch;
-mile = meter/1609.34;
-foot = mile * 5280;
-inch = foot * 12;
-System.out.print("mile:" + mile);
+BigInteger scan2 = scan.nextBigInteger();
+Boolean big = scan2.isProbablePrime(1-1/2^100);
+System.out.print(big); 
+
+Scanner ReadInt = new Scanner(System.in);
+System.out.print("Enter Big integer: ");
+String stringInt = ReadInt.nextLine();
+ BigInteger Bigint = new BigInteger(stringInt);
+ Boolean boolenan = Bigint.isProbablePrime(1-1/2^100);
+ System.out.print("It is likely " + boolenan + " that the number is prime");
+
+"sdf".length();
+
+//  String str = new String(num); Doesnt this work like line 10?
+
 }
 }
