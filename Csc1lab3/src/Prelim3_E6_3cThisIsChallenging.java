@@ -1,16 +1,18 @@
+/*Cumulative totals. For example, if the input is 1 7 2 9, the program should print 1 8 10 19. */
 import java.util.*;
 public class Prelim3_E6_3cThisIsChallenging { 
 	public static void main(String[] args) {
+		System.out.print("Enter integers: ");
 		Scanner a = new Scanner(System.in);
-		int b = a.nextInt();
-		System.out.print(b + " ");
+		int first = a.nextInt();
+		System.out.print(first + " ");
 
-		int d = b;
+		int sum = first;
 		while(a.hasNextInt()) {
-		int c = a.nextInt();
-		d = d + c;
+		int input = a.nextInt();
+		sum = sum + input;
 
-		System.out.print(d + " ");
+		System.out.print(sum + " ");
 		}
 	}
 }

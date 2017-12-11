@@ -1,3 +1,11 @@
+/*Write a program that reads a word and prints all substrings, sorted by length. For example, if the user provides the input "rum", the program prints
+ r
+u
+m
+ru
+um
+rum*/
+
 import java.util.*;
 public class Prelim3_6_12ThisIsChallenging {//6.12
 	public static void main(String[] args) {

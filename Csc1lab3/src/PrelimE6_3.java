@@ -1,16 +1,10 @@
-import java.util.*;
+import java.util.*; //this is just a draft
 public class PrelimE6_3{
 	public static void main(String args[])
 	{	
 		Scanner a = new Scanner (System.in);
 		System.out.print("Enter integers: ");
 		int b = a.nextInt();
-		
-		
-		
-		
-		
-		
 
  /*   int firstInput = a.nextInt();
     int odd = firstInput;

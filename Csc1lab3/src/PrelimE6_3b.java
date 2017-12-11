@@ -1,3 +1,7 @@
+/*
+ Write programs that read a sequence of integer inputs and print The number of even and odd inputs
+ */
+
 import java.util.Scanner;
 
 public class PrelimE6_3b {//
@@ -5,24 +9,21 @@ public class PrelimE6_3b {//
 		Scanner a = new Scanner (System.in);
 		System.out.print("Enter integers: ");
 
-    int firstInput = a.nextInt();
-	if(firstInput%2==0&&firstInput>0) System.out.println("even: " + firstInput);
-	if(firstInput%2!=0&&firstInput>0) System.out.println("odd: " + firstInput);
-    while (a.hasNextInt()) // or while(a.hasNextInt???)
-    { 
-
-        int input = a.nextInt();
-        if (input%2==0) {
-        	System.out.println("even: " + input);
-        }
-        
-        if (input%2!=0)
-        {
-        	System.out.println("odd: " + input);        }
-    }
-
-		
-		
-		
-}
+	    int firstInput = a.nextInt();
+		if(firstInput%2==0&&firstInput>0) 
+			System.out.println("even: " + firstInput);
+		if(firstInput%2!=0&&firstInput>0) 
+			System.out.println("odd: " + firstInput);
+	    while (a.hasNextInt())
+	    { 
+	        int input = a.nextInt();
+	        if (input%2==0) {
+	        	System.out.println("even: " + input);
+	        }
+	        
+	        if (input%2!=0){
+	        	System.out.println("odd: " + input);        
+	        }
+	    }	
+	}
 }

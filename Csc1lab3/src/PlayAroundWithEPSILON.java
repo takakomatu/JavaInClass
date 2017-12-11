@@ -7,7 +7,7 @@ public class PlayAroundWithEPSILON {
 		final double EPSILON = 1E-14;// y do we have final?
 		
 		boolean b = Math.abs(x-10)<=1E-14;
-		EPSILON = 7;// cant do like this cuz finalized
+		//EPSILON = 7;// cant do like this cuz finalized
 		System.out.print(EPSILON);
 
 

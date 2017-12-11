@@ -1,4 +1,5 @@
-import java.util.Scanner;//????
+/*All adjacent duplicates. For example, if the input is 1 3 3 4 5 5 6 6 6 2, the program should print 3 5 6. */
+import java.util.Scanner;
 
 public class E6_3dThisIsDifficult {//this is equal to Prelim3_E6_3d
 
@@ -13,7 +14,6 @@ public static void main(String[] args) {
 	
 	int next;
 	int prev;
-	int prevprev;
 	next = a.nextInt();
 	boolean b = false;
 	while(a.hasNextInt()) {
@@ -26,9 +26,8 @@ public static void main(String[] args) {
 				 	 b = true;
 				 }
 			}
-			else {
+			else
 				b = false;
-			}
 		}
 	}
 }

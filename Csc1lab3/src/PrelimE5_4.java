@@ -1,4 +1,7 @@
-import java.util.*;//??
+/*Write a program that reads three numbers and prints gall the sameh if they are all 
+ the same, gall differenth if they are all different, and gneitherh otherwise. */
+
+import java.util.*;
 public class PrelimE5_4{
 	public static void main(String[] args) {
 		System.out.print("Enter three numbers: ");

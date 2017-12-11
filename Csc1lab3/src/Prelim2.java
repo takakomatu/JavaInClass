@@ -19,7 +19,8 @@ public class Prelim2 {
 		    break;
 		default:
 		    System.out.println("Please be");
-			System.out.println("Carefull!");
 		}
+			System.out.println("Carefull!");
+		
 }
 }

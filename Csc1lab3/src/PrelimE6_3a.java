@@ -1,3 +1,7 @@
+/*
+ Write programs that read a sequence of integer inputs and print a. The smallest and largest of the inputs
+ */
+
 import java.util.*;
 public class PrelimE6_3a{
 	public static void main(String args[])//????

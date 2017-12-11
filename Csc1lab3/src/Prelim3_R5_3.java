@@ -1,3 +1,12 @@
+/*. Find the errors in the following if statements. 
+    x = in.nextInt(); 
+    if (in.hasNextInt()) {    
+    	sum = sum + x;    
+    } 
+    else {    
+    	System.out.println("Bad input for x"); 
+    }*/
+
 import java.util.*;
 public class Prelim3_R5_3 { 
 	public static void main(String[] args) {

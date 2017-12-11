@@ -1,4 +1,7 @@
-import java.util.Scanner;
+/*
+Write programs with loops that compute The sum of all even numbers between 2 and 100 (inclusive). 
+*/
+
 public class PrelimE6_2_a{
 	public static void main(String[] args) {
 		int i=2;
