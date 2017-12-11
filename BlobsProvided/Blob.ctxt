@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Blob
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Blob\ here.\r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2017\r\n
+comment1.params=blobRadius\ xVel\ yVel
+comment1.target=Blob(double,\ double,\ double)
+comment1.text=\r\n\ constructor\ that\ builds\ a\ new\ blob\ of\ a\ specified\r\n\ radius\r\n\ \r\n\ @param\ radius\ -\ the\ radius\ of\ the\ new\ blob.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ redraw()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Blob\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment6.params=
+comment6.target=void\ join()
+numComments=7
