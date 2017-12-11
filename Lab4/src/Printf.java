@@ -22,12 +22,21 @@ public class Printf {
 		System.out.println();
 		System.out.printf("%s", string); 		
 		System.out.println();
-		System.out.printf("%10s", string); 			
+		System.out.printf("%s", "asdfasf"); 		
+		System.out.println();
+		System.out.printf("String:%5s", "str"); 			
 		
 		System.out.println();
-		System.out.printf("%10d %10.5f", c, price); 
+		System.out.printf("%10d%10.5f", c, price); 
 		System.out.println();
-		//System.out.printf("%d %.2f", price, c); 	
+		System.out.printf("%d%.2f", 233, 1.234567); 		
+		System.out.println();
+		System.out.printf("%d %.2f", 233, 1.234567); 		
+		
+		System.out.println();
+		System.out.printf("%d %.2f", 233, 1.234567); 		
+		System.out.println();
+		System.out.printf("%8.2f\n", 789.87654321); 	
 		
 		
 		//so that all results can be lined up, we need all % to be lined up, I guess

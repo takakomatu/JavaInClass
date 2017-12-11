@@ -1,4 +1,4 @@
-
+// you might want to take a look at Lab4SuggestedE3_3.java
 public class CircuitTester {
 	public static void main(String[] args) {
 		Lab4SuggestedE3_3 a = new Lab4SuggestedE3_3();
