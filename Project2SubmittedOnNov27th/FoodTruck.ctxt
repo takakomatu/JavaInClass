@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FoodTruck
+comment0.text=\r\n\ FoodTruck\ -\ food\ trucks\ for\ CSC14400\ project\#2\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 10/25/2017\r\n
+comment1.params=xVel\ yVel\ xLoc1\ yLoc1
+comment1.target=FoodTruck(double,\ double,\ double,\ double)
+comment1.text=\ \r\n\ constructor\ that\ builds\ a\ food\ truck\ with\ specified\ speeds.\ \r\n\ @param\ xVel\ -\ speed\ in\ x\ direction\r\n\ @param\ yVel\ -\ speed\ in\ y\ direction\r\n\ @param\ xLoc1\ -\ location\ in\ x\ direction\r\n\ @param\ yLoc1\ -\ location\ in\ y\ direction\r\n\ \r\n\ NOTE\:\ you\ do\ not\ have\ to\ code\ or\ use\ this\ constructor\ if\r\n\ \ \ \ \ you\ do\ not\ want\ to.\ I\ am\ leaving\ it\ here\ as\ a\ strong\r\n\ \ \ \ \ hint\ as\ to\ what\ is\ likely\ the\ easiest\ way\ to\ go\ about\r\n\ \ \ \ \ constructing\ a\ food\ truck.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ FoodTruck\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
