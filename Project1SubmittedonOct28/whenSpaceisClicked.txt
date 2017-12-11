@@ -1,0 +1,4 @@
+Note that the spacebar is pressed at (roughly) each of the following times in the movie:
+0:10, 0:18, 0:29, 0:39, 0:41, 0:52, 0:55, 0:56
+1:23, 1:33, 1:40, 1:48, 1:50, 1:52, 1:54, 1:55
+2:08, 2:15, 2:23, 2:35, 2:45, 2:46, 2:51, 2:55, 2:58

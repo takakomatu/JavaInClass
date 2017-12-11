@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GolfBall
+comment0.text=\r\n\ GolfBall\ -\ the\ golf\ ball\ for\ CSC14400\ project\#1\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 10/19/2017\r\n\ \r\n\ NOTE\:\ You\ **WILL**\ want\ to\ add\ code\ to\ this\ class\ in\ various\ locations\!\!\!\r\n
+comment1.params=xVel\ yVel
+comment1.target=GolfBall(double,\ double)
+comment1.text=\r\n\ build\ a\ GolfBall\ with\ an\ initial\ speed\r\n\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getBallImage()
+comment2.text=\r\n\ getBallImage\ -\ gets\ this\ golf\ ball's\ image\ to\ a\ black\ circle\ filled\ with\ white.\ \r\n\ \r\n\ @return\ a\ new\ golf\ ball\ image.\ \r\n\ \r\n\ \ \ YOU\ WILL\ LIKELY\ WANT\ TO\ CALL\ THIS\ METHOD\ FROM\ YOUR\ CONSTRUCTOR\ AND\ POSSIBLY\ ELSEWHERE,\r\n\ \ \ \ \ \ ALTHOUGH\ YOU\ ARE\ ***NOT***\ REQUIRED\ TO\ DO\ SO\r\n
+comment3.params=col
+comment3.target=greenfoot.GreenfootImage\ getRightArrowImage(greenfoot.Color)
+comment3.text=\r\n\ getRightArrowImage\ -\ gets\ this\ golf\ ball's\ image\ to\ a\ black\ circle\ filled\ with\ white.\ \r\n\ \r\n\ @param\ col\ -\ the\ color\ to\ draw\ the\ arrow\ with.\ \r\n\ @return\ a\ new\ right\ arrow\ image.\ \r\n\ \r\n\ \ \ YOU\ WILL\ LIKELY\ WANT\ TO\ CALL\ THIS\ METHOD\ FROM\ YOUR\ ACT\ METHOD\ AND\ POSSIBLY\ ELSEWHERE,\r\n\ \ \ \ \ \ ALTHOUGH\ YOU\ ARE\ ***NOT***\ REQUIRED\ TO\ DO\ SO\r\n
+comment4.params=w
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ GolfBall\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6

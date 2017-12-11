@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MessageBox
+comment0.text=\r\n\ MessageBox\ is\ a\ class\ that\ will\ build\ a\ message\ area.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 8/2017\r\n\ \r\n\ NOTE\:\ YOU\ DO\ ***NOT***\ NEED\ TO\ UNDERSTAND\ HOW\ THE\ PRIVATE\ IMPLEMENTATION\ OF\ THIS\r\n\ \ \ \ \ \ \ \ \ CLASS\ WORKS\ IN\ RDER\ TO\ USE\ THE\ CLALSS.\r\n\ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ IT\ IS\ ****HIGHLY****\ INADVISABLE\ TO\ MODIFY\ THIS\ CODE\ IN\ ANY\ WAY,\ although\ \r\n\ \ \ \ \ \ \ you\ are\ welcome\ to\ do\ so\ if\ you\ wish\ to.\r\n
+comment1.params=width
+comment1.target=MessageBox(int)
+comment1.text=\r\n\ Constructor\ to\ build\ a\ MessageBox\ of\ a\ specified\ width\r\n\ \r\n\ \ \ @param\ width\ -\ the\ width\ of\ the\ message\ box.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ redraw()
+comment4.params=newText
+comment4.target=void\ setText(java.lang.String)
+comment4.text=\r\n\ modifies\ the\ displayed\ message\ bty\ replacing\ i\r\n\ \ \ @param\ newText\ -\ the\ new\ message\r\n
+comment5.params=
+comment5.target=void\ clear()
+comment5.text=\r\n\ clears\ out\ the\ message\ box\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ act\ really\ has\ nothing\ to\ do\ uhere.\ In\ fact,\ we\ could\ hav\ omitted\ it.\r\n
+numComments=7

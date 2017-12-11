@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\ \r\n\ Takaaki\ made\ this\r\n\ \r\n\ @author\ Takaaki\ Komatsu\ \r\n\ @version\ 10/19/2017\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\ \r\n\ \r\n
+comment2.params=
+comment2.target=double\ getX()
+comment2.text=\r\n\ return\ x\ location\ of\ the\ hole.\r\n\ \r\n
+comment3.params=
+comment3.target=double\ getRectangleMeter()
+comment3.text=\r\n\ return\ how\ much\ ratio\ in\ the\ rectangleMeter\ is.\r\n\ \r\n
+comment4.params=
+comment4.target=MessageBox\ getMessageBox()
+comment4.text=\r\n\ get\ messageBox\ messages.\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getClubSelected()
+comment5.text=\r\n\ returns\ the\ club\ selected\ by\ the\ user\r\n\ \ \ @return\ String\ containing\ the\ label\ of\ the\ Selection\ box\ the\ user\ has\ selected.\ Returns\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ null\ if\ no\ such\ box\ has\ been\ selected.\ \r\n
+numComments=6

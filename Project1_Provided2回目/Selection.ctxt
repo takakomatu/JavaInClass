@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Selection
+comment0.text=\r\n\ Allows\ user\ to\ click\ this\ object\ to\ select\ it.\ Object\ is\ identified\ by\ a\ String.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 8/2017\r\n\ \r\n\ \r\n\ REMEMBER\ -\ YOU\ ARE\ BEING\ PROVIDED\ WITH\ THIS\ CLASS.\ ALTHOUGH\ YOU\ ARE\ WELCOME\ TO\ MIDIFY\ IT,\r\n\ \ \ DOING\ SO\ IS\ ****HIGHLY****\ INADVISABLE\!\!\!\!\r\n
+comment1.params=idLabel
+comment1.target=Selection(java.lang.String)
+comment1.text=\r\n\ Constructor,\ builds\ selection\ box\ based\ on\ the\ specified\ String\r\n\ \r\n\ \ \ @param\ idLabel\ -\ the\ String\ labele\ for\ this\ selection\ box\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=bgColor\ fgColor
+comment3.target=void\ redraw(greenfoot.Color,\ greenfoot.Color)
+comment4.params=
+comment4.target=java.lang.String\ getLabel()
+comment4.text=\r\n\ returns\ value\ of\ label\r\n\ \ \r\n\ \ @return\ -\ the\ String\ value\ of\ the\ label\r\n
+comment5.params=
+comment5.target=boolean\ isSelected()
+comment5.text=\r\n\ returns\ current\ state\ of\ selection\ box\r\n\ \r\n\ \ @return\ true,\ if\ this\ selection\ box\ is\ selected;\ flse\ if\ this\ selection\ box\ is\ not\ selected\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ look\ for\ mouse\ clicks\ on\ this\ selection\ box.\ When\ one\ is\ found,\ select\ this\ bx\ and\ deselect\ \r\n\ \ \ \ \ all\ others.\r\n\ \ \ \ \ \r\n\ \ \ \ \ Again,\ you\ do\ NOT\ need\ to\ understand\ how\ this\ code\ works\ to\ use\ the\ Selection\ class\!\r\n
+numComments=7
