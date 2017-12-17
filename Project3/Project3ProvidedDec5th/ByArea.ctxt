@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ByArea
+comment0.text=\r\n\ Class\ ByArea\ is\ a\ subclass\ of\ Button.\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 12/06/2017\r\n
+comment1.params=
+comment1.target=ByArea()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ByArea.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ handle()
+comment2.text=\r\n\ when\ the\ byArea\ Button\ is\ clicked\ sort\ presents\ by\ its\ size\r\n
+numComments=3

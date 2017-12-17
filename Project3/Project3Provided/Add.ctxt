@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Add
+comment0.text=\r\n\ Add\ -\ Add\ button\ for\ CSC14400\ project\#3\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 12/02/2017\r\n
+comment1.params=
+comment1.target=Add()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Add\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=int\ saveSumWidth()
+comment2.text=\r\n\ return\ how\ much\ ratio\ in\ the\ rectangleMeter\ is.\r\n\ @return\ ratio\ in\ the\ rectangleMeter\r\n\ \r\n
+comment3.params=
+comment3.target=int\ sumHeight()
+comment3.text=\r\n\ return\ how\ much\ ratio\ in\ the\ rectangleMeter\ is.\r\n\ @return\ ratio\ in\ the\ rectangleMeter\r\n\ \r\n
+comment4.params=
+comment4.target=void\ handle()
+comment5.params=
+comment5.target=boolean\ loadWasDoneBefore()
+comment5.text=\r\n\ return\ how\ much\ ratio\ in\ the\ rectangleMeter\ is.\r\n\ @return\ ratio\ in\ the\ rectangleMeter\r\n\ \r\n
+numComments=6

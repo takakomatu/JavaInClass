@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Present
+comment0.text=\r\n\ The\ (almost,\ but\ not\ quite\ fully)\ coded\ Present\ class\ allows\ for\r\n\ \ \ contruction,\ drawing,\ and\ "querying"\ of\ a\ Present.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2017\r\n
+comment1.params=width\ height\ col
+comment1.target=Present(int,\ int,\ greenfoot.Color)
+comment1.text=\r\n\ Constructor\ for\ a\ Present\r\n\ \r\n\ @param\ width\ -\ the\ width\ of\ the\ present\r\n\ @param\ height\ -\ the\ height\ of\ the\ present\r\n\ @param\ col\ -\ the\ color\ of\ the\ present\r\n
+comment2.params=
+comment2.target=greenfoot.Color\ getColor()
+comment2.text=\r\n\ getColor\ returns\ the\ wrapping\ paper\ color\r\n\ @return\ the\ color\ of\ the\ wrapping\ paper\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ getHeight\ returns\ the\ height\ of\ the\ present\r\n\ @return\ the\ height\ of\ the\ present\r\n
+comment4.params=
+comment4.target=int\ getWidth()
+comment4.text=\ \r\n\ getWidth\ returns\ the\ width\ of\ the\ present\r\n\ @return\ the\ width\ of\ the\ present\r\n
+comment5.params=
+comment5.target=int\ getPeeks()
+comment5.text=\r\n\ getPeeks\ returns\ the\ number\ of\ times\ this\ prent\ was\ examined\r\n\ @return\ the\ number\ of\ peeks\ for\ this\ Present\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Act\ -\ whenever\ clicked,\ a\ present\ gets\ examined\ and\ a\ tooltip\ showing\r\n\ \ \ \ this\ Present's\ height,\ width,\ and\ number\ of\ peeks\r\n
+numComments=7

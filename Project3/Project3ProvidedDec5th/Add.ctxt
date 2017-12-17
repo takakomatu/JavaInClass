@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Add
+comment0.text=\r\n\ Class\ Add\ is\ a\ subclass\ of\ Button.\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 12/06/2017\r\n
+comment1.params=
+comment1.target=Add()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Add.\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ handle()
+comment2.text=\r\n\ when\ the\ Add\ Button\ is\ clicked,\ add\ presents\ according\ to\ the\ selected\ file\r\n
+numComments=3

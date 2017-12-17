@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ByPeeks
+comment0.text=\r\n\ Class\ ButtonChild\ is\ a\ subclass\ of\ Button.\r\n\ \r\n\ @Takaaki\ Komatsu\r\n\ @version\ 11/2017\r\n
+comment1.params=
+comment1.target=ByPeeks()
+comment2.params=
+comment2.target=void\ handle()
+numComments=3

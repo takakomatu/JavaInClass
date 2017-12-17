@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ToolTip
+comment0.text=\r\n\ The\ ToolTip\ class\ pops\ up\ a\ "user\ hint"\ that\ disappears\ after\ a\ brief\ \r\n\ period\ of\ time.\r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2017\r\n
+comment1.params=tips\ lifeLength
+comment1.target=ToolTip(java.lang.String[],\ int)
+comment1.text=\r\n\ constructor\ that\ builds\ a\ ToolTip\ out\ of\ an\ array\ of\ user\ "hints".//user\ "hints"\ is\ string\r\n\ Note\ that\ each\ hint\ cannot\ be\ bigger\ than\ about\ 95\ pixels\ wide.\r\n\ \r\n\ @param\ tips\ -\ array\ of\ help\ Strings\ to\ dispay\ in\ ToolTip\r\n\ @param\ lifeLength\ -\ how\ long\ the\ ToolTIp\ should\ appear\ (measured\ in\ number\ of\ act\ calls)\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ leave\ tooltip\ in\ place\ until\ it\ should\ disappear\r\n
+numComments=4

@@ -1,0 +1,11 @@
+blue 75 80
+red 100 53
+green 25 100
+green 100 25
+red 53 100
+blue 100 53
+red 50 50
+green 50 50
+blue 50 50 
+green 50 50
+blue 25 100

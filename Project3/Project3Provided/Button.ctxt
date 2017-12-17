@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Button\ is\ a\ template\ for\ a\ clickable\ \ button.\ You\ do\ not\ want\ to\ create\ \r\n\ \ \ \ \ any\ objects\ of\ type\ Button\ (actually\ you\ can\ NOT\ do\ so).\ Instead,\r\n\ \ \ \ \ you\ should\ create\ a\ new\ subclass\ that\ extends\ Button\ and\ \r\n\ \ \ \ \ \ \ \ \ 1)\ remove\ the\ subclass's\ act\ method\r\n\ \ \ \ \ \ \ \ \ 2)\ add\ a\ default\ constructor\ that\ calls\ the\ parent\ (Button)\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ constructor\ to\ set\ the\ subclass\ button's\ label\ text.\ (hint\:\ super)\r\n\ \ \ \ \ \ \ \ \ 3)\ add\ a\ \ \ \ public\ void\ handle()\ \ \ \ \ method\ to\ perform\ what\ is\ to\ be\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ done\ when\ the\ button\ is\ clicked\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ *****************************************************************************\r\n\ \ \ Although\ you\ are\ welcome\ to\ do\ so,\ YOU\ SHOULD\ NOT\ NEED\ TO\ MODIFY\ THIS\ CODE.\ \r\n\ \ ****************************************************************************\r\n\ @author\ Stephen\ Blythe\ \r\n\ @version\ 11/2017\r\n
+comment1.params=name
+comment1.target=Button(java.lang.String)
+comment1.text=\r\n\ Button\ --\ construct\ a\ new\ clickable\ button\r\n\ \r\n\ \ \ @param\ name\ the\ name\ of\ the\ button\ to\ create\r\n
+comment2.params=
+comment2.target=void\ setUpImage()
+comment3.params=
+comment3.target=void\ setDownImage()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=void\ handle()
+comment5.text=\r\n\ The\ handle\ method\ will\ do\ whatever\ the\ Button\ is\ intended\ to\ do\r\n\ \ \ ***\ remember\ to\ write\ your\ own\ version\ of\ this\ method\ in\ a\ \r\n\ \ \ ***\ subclass\ \!\!\!\r\n
+numComments=6

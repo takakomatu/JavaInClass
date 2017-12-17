@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ByArea
+comment0.text=\r\n\ ButtonChild1\ -\ first\ button\ for\ CSC14400\ project\#3\r\n\ \r\n\ @author\ Takaaki\ Komatsu\r\n\ @version\ 12/02/2017\r\n
+comment1.params=
+comment1.target=ByArea()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ButtonChild1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ handle()
+numComments=3
